@@ -43,7 +43,8 @@ Installation
   }
   ```
 
-Deployment
+Deployment:
+
 To deploy this API on a platform like Render, Railway, or Heroku:
 1. Push the project to a GitHub repository.
 2. Connect the repository to your chosen deployment service.
