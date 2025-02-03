@@ -7,7 +7,7 @@ Features
 - Supports CORS to allow cross-origin requests.
 - Lightweight and easy to use.
 
-Setup Instructions
+### Setup Instructions
 
 Prerequisites
 Ensure you have Node.js and npm installed on your system.
@@ -43,7 +43,7 @@ Installation
   }
   ```
 
-Deployment:
+### Deployment
 
 To deploy this API on a platform like Render, Railway, or Heroku:
 1. Push the project to a GitHub repository.
@@ -51,14 +51,14 @@ To deploy this API on a platform like Render, Railway, or Heroku:
 3. Set up environment variables if needed.
 4. Deploy and obtain your live API URL.
 
-Technologies Used
+### Technologies Used
 - Node.js
 - Express.js
 - CORS
 
-License
+### License
 This project is open-source and available under the MIT License.
 
-Author
+### Author
 Developed by Praisekeyz https://github.com/PraiseKeyz.
 
