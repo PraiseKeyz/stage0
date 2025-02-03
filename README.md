@@ -1,4 +1,4 @@
-Public API - Email, CurrentTime, and GitHub URL
+##Public API - Email, CurrentTime, and GitHub URL
 
 This is a simple public API built using Node.js, Express.js, and CORS. The API returns a JSON response containing an email address, the current datetime, and a GitHub URL.
 
