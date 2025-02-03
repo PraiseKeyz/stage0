@@ -18,7 +18,8 @@ app.get('/api', (req, res) => {
         res.status(200).json(responseData);
     }
     catch (error) {
-        console.error("Error getting data")
+        console.error("Error getting data:", error);
+        res.status(500).json({ error: "Something went wrong" });
     }
 })
 
