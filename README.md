@@ -1,6 +1,6 @@
-Public API - Email, Datetime, and GitHub URL
+Public API - Email, CurrentTime, and GitHub URL
 
-This is a simple public API built using **Node.js**, **Express.js**, and **CORS**. The API returns a JSON response containing an email address, the current datetime, and a GitHub URL.
+This is a simple public API built using Node.js, Express.js, and CORS. The API returns a JSON response containing an email address, the current datetime, and a GitHub URL.
 
 Features
 - Returns a JSON response with an email address, current datetime, and GitHub URL.
@@ -9,14 +9,14 @@ Features
 
 Setup Instructions
 
-### Prerequisites
+Prerequisites
 Ensure you have Node.js and npm installed on your system.
 
 Installation
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-github-username/public-api.git
-   cd public-api
+   git clone https://github.com/PraiseKeyz/stage0
+   cd stage0
    ```
 2. Install dependencies:
    ```sh
