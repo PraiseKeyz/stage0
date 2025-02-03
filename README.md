@@ -24,7 +24,7 @@ Installation
    ```
 3. Start the server:
    ```sh
-   npm start
+   node server.js
    ```
    The server will start on `http://localhost:3000` by default.
 
